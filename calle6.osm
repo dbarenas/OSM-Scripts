@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-80629' timestamp='2009-12-02T22:22:28Z' uid='31941' user='humano' visible='true' version='16' lat='4.9236133' lon='-75.0661141' />
+  <node id='-80628' timestamp='2009-12-02T22:22:29Z' uid='31941' user='humano' visible='true' version='3' lat='4.9250968' lon='-75.0659845' />
+  <node id='-80611' timestamp='2010-07-06T19:23:23Z' uid='31941' user='humano' visible='true' version='3' lat='4.925601' lon='-75.0668965' />
+  <node id='-80610' timestamp='2010-12-26T02:11:46Z' uid='31941' user='humano' visible='true' version='1' lat='4.9237026' lon='-75.0670698' />
+  <node id='-80600' timestamp='2009-12-02T22:22:29Z' uid='31941' user='humano' visible='true' version='16' lat='4.9245245' lon='-75.0650577' />
+  <node id='-80599' timestamp='2009-12-02T22:22:28Z' uid='31941' user='humano' visible='true' version='15' lat='4.9246165' lon='-75.0660265' />
+  <node id='-80598' timestamp='2010-12-26T02:11:46Z' uid='31941' user='humano' visible='true' version='1' lat='4.9247064' lon='-75.0669782' />
+  <node id='-80597' timestamp='2009-10-23T01:01:39Z' uid='31941' user='humano' visible='true' version='9' lat='4.9247982' lon='-75.0679418' />
+  <way id='-80594' action='modify' timestamp='2009-12-02T22:00:09Z' uid='31941' user='humano' visible='true'>
+    <nd ref='-80628' />
+    <nd ref='-80599' />
+    <nd ref='-80629' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='carrera 12' />
+    <tag k='ncn_ref' v='cra 12' />
+    <tag k='oneway' v='true' />
+  </way>
+  <way id='-80593' action='modify' timestamp='2010-12-26T02:11:47Z' uid='31941' user='humano' visible='true'>
+    <nd ref='-80610' />
+    <nd ref='-80598' />
+    <nd ref='-80611' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='carrera 13' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-80592' action='modify' timestamp='2010-12-26T02:11:54Z' uid='31941' user='humano' visible='true'>
+    <nd ref='-80597' />
+    <nd ref='-80598' />
+    <nd ref='-80599' />
+    <nd ref='-80600' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='calle 6' />
+    <tag k='ncn_ref' v='cll 6' />
+    <tag k='oneway' v='no' />
+  </way>
+</osm>
